@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/8b0c0ff4-a4c9-489a-80b4-19f39ac1be8d.svg)](https://wakatime.com/@8b0c0ff4-a4c9-489a-80b4-19f39ac1be8d)
+
 <!--
 **kamuyu-fred/kamuyu-fred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
