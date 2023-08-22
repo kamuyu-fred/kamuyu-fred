@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ...Netflix Clone 
-- 🌱 I’m currently learning ... Ruby on Rails and Rust
+- 🔭 I’m currently working on ...Machine Learning  
+- 🌱 I’m currently learning ... Python and Rust
 - 📫 How to reach me: ...daktarispacetime@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Avocados technically are berries
